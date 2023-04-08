@@ -1,6 +1,3 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [Main](/)
+  - Royal Parks
+    - [Regent's Park](/royal-parks/regents-park.md)
