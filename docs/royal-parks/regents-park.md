@@ -15,5 +15,10 @@ Wikipedia page: https://en.wikipedia.org/wiki/Regent%27s_Park
 ## Useful links
 
 - Regent's Park Cyclists: https://regentsparkcyclists.com/
-- Guardian RP article: https://www.theguardian.com/lifeandstyle/bike-blog/2017/dec/12/our-playground-regents-park-is-londons-cycling-utopia
+  - Facebook: https://www.facebook.com/groups/regentsparkcycling/
 - Friends of RP: https://www.friendsofregentspark.org/sport/cycling
+
+### Other articles from the internet:
+
+- Guardian RP article: https://www.theguardian.com/lifeandstyle/bike-blog/2017/dec/12/our-playground-regents-park-is-londons-cycling-utopia
+- Guardian article about Cycling Mikey: https://www.theguardian.com/lifeandstyle/2022/jan/05/filming-cyclingmikey-dangerous-drivers-mike-van-erp-motorists-britain-roads-safer
